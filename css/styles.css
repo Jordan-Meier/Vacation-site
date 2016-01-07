@@ -4,3 +4,8 @@
   background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/symphony.png');
   margin-bottom: 0;
 }
+
+/* Styles for the Get Help row */
+#get-help {
+  background-color: #000;
+}
