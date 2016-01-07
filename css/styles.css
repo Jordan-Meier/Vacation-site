@@ -5,6 +5,13 @@
   margin-bottom: 0;
 }
 
+/* Navbar
+================================ */
+
+.navbar {
+  margin-bottom: 0;
+}
+
 /* Styles for the Get Help row */
 #get-help {
   background-color: #000;
@@ -13,4 +20,19 @@
 
 #sitemap {
   background-color: lightblue;
+}
+
+/* Carousel
+================================ */
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.carousel-indicators .active {
+  background-color: #222;
+}
+
+.carousel-indicators li {
+  border-color: #222;
 }
