@@ -8,4 +8,9 @@
 /* Styles for the Get Help row */
 #get-help {
   background-color: #000;
+  margin-bottom: 40px;
+}
+
+#sitemap {
+  background-color: lightblue;
 }
