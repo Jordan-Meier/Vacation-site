@@ -1,5 +1,6 @@
 /* Jumbotron */
 
+
 .jumbotron {
   background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/symphony.png');
   margin-bottom: 0;
@@ -15,11 +16,13 @@
 /* Styles for the Get Help row */
 #get-help {
   background-color: #000;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
+  margin-top: 150px;
 }
 
 #sitemap {
   background-color: lightblue;
+  padding-bottom: 100px;
 }
 
 /* Carousel
@@ -35,4 +38,11 @@
 
 .carousel-indicators li {
   border-color: #222;
+}
+
+/* Pictures
+======================== */
+#pictures {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
